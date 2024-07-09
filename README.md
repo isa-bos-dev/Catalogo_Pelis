@@ -1,4 +1,3 @@
-
 # 🎬 Catálogo de Películas 🎥
 
 Este es un proyecto de una aplicación web para gestionar un catálogo de películas. Permite crear, editar, y listar películas, así como visualizar una galería de películas con sus imágenes y detalles asociados.
@@ -20,16 +19,19 @@ Este es un proyecto de una aplicación web para gestionar un catálogo de pelíc
 ## 🚀 Instalación
 
 1. **Clona el repositorio**:
+
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/isa-bos-dev/Catalogo_Pelis.git
    ```
 
 2. **Navega al directorio del proyecto**:
+
    ```bash
-   cd nombre-del-repositorio
+   cd Catalogo_Pelis
    ```
 
 3. **Construye el proyecto con Maven**:
+
    ```bash
    mvn clean install
    ```
